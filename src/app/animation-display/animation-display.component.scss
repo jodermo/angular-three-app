@@ -1,0 +1,30 @@
+.tool-select{
+  cursor: crosshair;
+}
+.tool-move{
+  cursor: move;
+}
+
+.tool-rotate{
+  cursor: all-scroll;
+}
+
+.tool-scale{
+  cursor: nesw-resize;
+}
+
+.tool-copy{
+  cursor: copy;
+}
+
+.tool-zoom-in{
+  cursor: zoom-in !important;
+}
+
+.tool-zoom-out{
+  cursor: zoom-out !important;
+}
+
+.not-allowed{
+  cursor: not-allowed !important;
+}
